@@ -5,7 +5,7 @@ Follow the link to visit site: [Food Vlogz](https://its-gufran.github.io/FoodVlo
 
 Made by collective efforts of:
 1. Mohd Gufran - 20BCS001
-2. Lal Bihari Pandey - 20BCS062
+2. [Lal Bihari Pandey](https://github.com/xpandeyed) - 20BCS062
 3. Noor Jabeen - 20BCS045
 4. Saamiya Ahsan - 
 5. Adnan Ilahi - 20BCS007
