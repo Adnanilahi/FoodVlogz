@@ -9,7 +9,7 @@ Made by collective efforts of:
 3. Noor Jabeen - 20BCS045
 4. Saamiya Ahsan - 
 5. Adnan Ilahi - 20BCS007
-6. Ayoob Bhat -
+6. Mohammad Ayoob Bhat - 20BCS039
 7. Ejaz Ahmed - 20BEC024
 8. Viraj Varshney - 20BCS071
 9. Ilham - 
