@@ -7,7 +7,7 @@ Made by collective efforts of:
 1. Mohd Gufran - 20BCS001
 2. [Lal Bihari Pandey](https://github.com/xpandeyed) - 20BCS062
 3. Noor Jabeen - 20BCS045
-4. Saamiya Ahsan - 
+4. [Saamiya Ahsan](https://github.com/saamiyaahsan) - 20BEC010
 5. Adnan Ilahi - 20BCS007
 6. Mohammad Ayoob Bhat - 20BCS039
 7. Ejaz Ahmed - 20BEC024
